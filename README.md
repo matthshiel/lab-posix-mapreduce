@@ -512,3 +512,4 @@ you'll need to have all of the images uploaded to github.
 
 The lab is worth 4 points.
 Part 6 is worth 2 points, and the rest of the lab the other 2 points.
+![](country_code_mapreduce.png)
